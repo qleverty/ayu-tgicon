@@ -9,7 +9,7 @@ By default it swaps one of the built-in chibi icons for the classic Telegram log
 ## Usage
 
 1. Run `.PATCHER.exe`
-2. Give it the path to your `AyuGram.exe`
+2. Give it the path to your `AyuGram.exe` from [official releases](https://github.com/AyuGram/AyuGramDesktop/releases)
 3. Get `AyuGram_patched.exe` right next to it
 
 Taskbar icon updates instantly. If Explorer still shows the old file icon, run `clear icon cache.bat`.
